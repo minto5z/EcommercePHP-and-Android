@@ -1,0 +1,1 @@
+<div id="pageFooter">Copyright | <a href="https://ecommerces-minto5z.c9users.io/InorbitMall/storeadmin">Admin</a></div>
